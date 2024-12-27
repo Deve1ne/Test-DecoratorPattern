@@ -1,0 +1,6 @@
+@Test_DecoratorPattern_HostAddress = http://localhost:5053
+
+GET {{Test_DecoratorPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

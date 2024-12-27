@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc.DecoratorPattern", "Poc.DecoratorPattern\Poc.DecoratorPattern.csproj", "{087B51D9-2D91-45AE-9D80-87932F884571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087B51D9-2D91-45AE-9D80-87932F884571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087B51D9-2D91-45AE-9D80-87932F884571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087B51D9-2D91-45AE-9D80-87932F884571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087B51D9-2D91-45AE-9D80-87932F884571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
